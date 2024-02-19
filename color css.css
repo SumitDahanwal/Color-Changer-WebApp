@@ -1,0 +1,51 @@
+body{
+    margin: 0px;
+    padding: 20px 100px;
+}
+h1{
+    text-align: center;
+    text-decoration: underline;
+}
+.button{
+    width: 40px;
+    height: 40px;
+    display: inline-block;
+    border: solid black;
+    border-radius: 40%;
+    cursor: pointer; 
+    align-items: center;
+
+
+}
+#white{
+    background-color: white;
+}
+#aqua{
+    background-color: aquamarine;
+
+}
+#violet{
+    background-color: #ce9aff;
+
+}
+#black{
+    background-color: black;
+
+}
+.center{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 1200px;
+}
+#p2{
+    text-align: center;
+    align-items: center;
+    font-weight: bolder;
+    text-decoration: underline;
+}
+
+#color-switcher{
+    text-align: center;
+}
+
